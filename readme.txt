@@ -1,4 +1,4 @@
-=== WP-Activity ===
+=== Hyper Cache Clear Link ===
 Contributors: Dric1107
 Tags: cache, caching, speed, performance, super cache, wp cache, optimization, hyper cache, tests, admin bar, hccl
 Requires at least: 2.5
